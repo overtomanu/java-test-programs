@@ -7,6 +7,9 @@ public class HelloWorldAWSCodeWhispererTest {
     // create program to print hello world
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("""
+                Test tab \\t:|\t| in java string block
+                """);
         sortList(new ArrayList<>(List.of(998,999,1000,101,1010,1011)));
     }
 
