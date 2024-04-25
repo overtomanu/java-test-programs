@@ -5,9 +5,12 @@ Note: Recompile with -Xlint:preview for details.
 Hello, World!
  */
 
+// commenting as Java 17 is used for time being
+/*
 void main() {
     System.out.println("Hello, World!");
 }
+*/
 
 /*
 https://www.baeldung.com/java-21-unnamed-class-instance-main
